@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: blog
+# key: blog
+# --
+---
+layout: post
+title: ${1:title}
+category:  ${2:舞台技術,日記,電子工作,プログラミング}
+date: ${3:2020-12-34}
+tags:
+  - ${4:tag}
+---
