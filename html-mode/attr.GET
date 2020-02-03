@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: GET
+# key: GET
+# --
+GET="${0}"

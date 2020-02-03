@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: scoped
+# key: scoped
+# --
+scoped="${0}"

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: spacer
+# key: spacer
+# --
+<spacer>${0}</spacer>
+   

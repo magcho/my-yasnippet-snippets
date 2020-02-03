@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: srcset
+# key: srcset
+# --
+srcset="${0}"

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: selected
+# key: selected
+# --
+selected="${0}"

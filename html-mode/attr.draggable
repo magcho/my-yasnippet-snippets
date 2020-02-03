@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: draggable
+# key: draggable
+# --
+draggable="${0}"

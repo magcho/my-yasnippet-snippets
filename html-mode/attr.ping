@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ping
+# key: ping
+# --
+ping="${0}"

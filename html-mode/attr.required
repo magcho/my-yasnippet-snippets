@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: required
+# key: required
+# --
+required="${0}"

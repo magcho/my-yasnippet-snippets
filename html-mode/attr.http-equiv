@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: http-equiv
+# key: http-equiv
+# --
+http-equiv="${0}"

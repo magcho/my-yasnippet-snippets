@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: spellcheck
+# key: spellcheck
+# --
+spellcheck="${0}"

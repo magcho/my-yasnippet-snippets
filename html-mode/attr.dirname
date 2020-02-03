@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dirname
+# key: dirname
+# --
+dirname="${0}"

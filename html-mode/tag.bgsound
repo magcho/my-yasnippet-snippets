@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: bgsound
+# key: bgsound
+# --
+<bgsound>${0}</bgsound>
+   

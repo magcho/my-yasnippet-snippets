@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: bdo
+# key: bdo
+# --
+<bdo>${0}</bdo>
+   

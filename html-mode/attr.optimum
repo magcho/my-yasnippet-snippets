@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: optimum
+# key: optimum
+# --
+optimum="${0}"

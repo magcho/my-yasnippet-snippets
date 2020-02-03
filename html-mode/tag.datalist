@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: datalist
+# key: datalist
+# --
+<datalist>${0}</datalist>
+   

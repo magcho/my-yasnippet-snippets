@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: s
+# key: s
+# --
+<s>${0}</s>
+   

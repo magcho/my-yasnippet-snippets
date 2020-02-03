@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: keytype
+# key: keytype
+# --
+keytype="${0}"

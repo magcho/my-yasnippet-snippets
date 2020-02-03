@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: srcdoc
+# key: srcdoc
+# --
+srcdoc="${0}"

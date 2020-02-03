@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: formtarget
+# key: formtarget
+# --
+formtarget="${0}"

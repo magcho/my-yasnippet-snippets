@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: datetime
+# key: datetime
+# --
+datetime="${0}"

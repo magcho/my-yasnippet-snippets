@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: contextmenu
+# key: contextmenu
+# --
+contextmenu="${0}"

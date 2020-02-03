@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: video
+# key: video
+# --
+<video>${0}</video>
+   

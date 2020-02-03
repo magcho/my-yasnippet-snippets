@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: accept-charset
+# key: accept-charset
+# --
+accept-charset="${0}"

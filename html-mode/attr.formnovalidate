@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: formnovalidate
+# key: formnovalidate
+# --
+formnovalidate="${0}"

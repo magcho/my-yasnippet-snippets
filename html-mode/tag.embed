@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: embed
+# key: embed
+# --
+<embed>${0}</embed>
+   

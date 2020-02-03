@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: isindex
+# key: isindex
+# --
+<isindex>${0}</isindex>
+   

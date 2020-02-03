@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: noembed
+# key: noembed
+# --
+<noembed>${0}</noembed>
+   

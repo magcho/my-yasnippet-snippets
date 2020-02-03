@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: shadow
+# key: shadow
+# --
+<shadow>${0}</shadow>
+   
