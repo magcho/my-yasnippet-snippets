@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: rtc
+# key: rtc
+# --
+<rtc>${0}</rtc>
+   

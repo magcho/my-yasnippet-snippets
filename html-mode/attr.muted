@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: muted
+# key: muted
+# --
+muted="${0}"

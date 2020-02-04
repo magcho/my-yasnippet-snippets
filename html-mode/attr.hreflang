@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: hreflang
+# key: hreflang
+# --
+hreflang="${0}"

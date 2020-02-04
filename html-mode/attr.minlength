@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: minlength
+# key: minlength
+# --
+minlength="${0}"

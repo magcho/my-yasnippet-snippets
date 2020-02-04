@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: autoplay
+# key: autoplay
+# --
+autoplay="${0}"

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: srclang
+# key: srclang
+# --
+srclang="${0}"

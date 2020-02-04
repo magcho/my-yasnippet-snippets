@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: label
+# key: label
+# --
+<label>${0}</label>
+   

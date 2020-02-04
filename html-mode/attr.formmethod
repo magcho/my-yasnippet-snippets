@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: formmethod
+# key: formmethod
+# --
+formmethod="${0}"

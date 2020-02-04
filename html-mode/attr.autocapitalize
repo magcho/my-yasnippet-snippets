@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: autocapitalize
+# key: autocapitalize
+# --
+autocapitalize="${0}"

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: intrinsicsize
+# key: intrinsicsize
+# --
+intrinsicsize="${0}"

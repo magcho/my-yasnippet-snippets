@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: blink
+# key: blink
+# --
+<blink>${0}</blink>
+   

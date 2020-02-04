@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: alt
+# key: alt
+# --
+alt="${0}"

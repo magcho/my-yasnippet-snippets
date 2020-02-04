@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: csp
+# key: csp
+# --
+csp="${0}"

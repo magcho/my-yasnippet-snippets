@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: autocomplete
+# key: autocomplete
+# --
+autocomplete="${0}"

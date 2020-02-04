@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: accesskey
+# key: accesskey
+# --
+accesskey="${0}"

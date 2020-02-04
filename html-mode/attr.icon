@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: icon
+# key: icon
+# --
+icon="${0}"

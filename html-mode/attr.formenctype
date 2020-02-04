@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: formenctype
+# key: formenctype
+# --
+formenctype="${0}"

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: xmp
+# key: xmp
+# --
+<xmp>${0}</xmp>
+   

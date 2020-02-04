@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: col
+# key: col
+# --
+<col>${0}</col>
+   

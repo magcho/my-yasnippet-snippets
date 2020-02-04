@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: autofocus
+# key: autofocus
+# --
+autofocus="${0}"

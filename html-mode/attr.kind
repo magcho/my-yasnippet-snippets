@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: kind
+# key: kind
+# --
+kind="${0}"
