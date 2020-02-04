@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: referrerpolicy
+# key: referrerpolicy
+# --
+referrerpolicy="$0"

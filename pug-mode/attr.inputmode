@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: inputmode
+# key: inputmode
+# --
+inputmode="$0"

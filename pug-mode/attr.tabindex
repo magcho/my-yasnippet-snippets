@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tabindex
+# key: tabindex
+# --
+tabindex="$0"

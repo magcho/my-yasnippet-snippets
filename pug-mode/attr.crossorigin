@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: crossorigin
+# key: crossorigin
+# --
+crossorigin="$0"

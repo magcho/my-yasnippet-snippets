@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: rowspan
+# key: rowspan
+# --
+rowspan="$0"

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: charset
+# key: charset
+# --
+charset="$0"

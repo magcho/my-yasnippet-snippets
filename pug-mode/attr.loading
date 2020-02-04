@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: loading
+# key: loading
+# --
+loading="$0"

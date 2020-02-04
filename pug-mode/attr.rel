@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: rel
+# key: rel
+# --
+rel="$0"

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: contenteditable
+# key: contenteditable
+# --
+contenteditable="$0"
