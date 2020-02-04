@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: formaction
+# key: formaction
+# --
+formaction="$0"

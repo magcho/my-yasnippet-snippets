@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: controls
+# key: controls
+# --
+controls="$0"

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dropzone
+# key: dropzone
+# --
+dropzone="$0"

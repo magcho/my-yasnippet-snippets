@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: buffered
+# key: buffered
+# --
+buffered="$0"

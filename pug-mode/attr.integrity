@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: integrity
+# key: integrity
+# --
+integrity="$0"

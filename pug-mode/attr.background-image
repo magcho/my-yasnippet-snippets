@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: background-image
+# key: background-image
+# --
+background-image="$0"

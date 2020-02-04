@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: disabled
+# key: disabled
+# --
+disabled="$0"

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: enctype
+# key: enctype
+# --
+enctype="$0"

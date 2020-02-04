@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: preload
+# key: preload
+# --
+preload="$0"

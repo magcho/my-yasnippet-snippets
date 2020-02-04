@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: sandbox
+# key: sandbox
+# --
+sandbox="$0"

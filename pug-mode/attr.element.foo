@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: element.foo
+# key: element.foo
+# --
+element.foo="$0"

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: method
+# key: method
+# --
+method="$0"

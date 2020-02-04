@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: multiple
+# key: multiple
+# --
+multiple="$0"
