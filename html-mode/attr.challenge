@@ -2,4 +2,4 @@
 # name: challenge
 # key: challenge
 # --
-challenge="${0}"
+challenge="$0"

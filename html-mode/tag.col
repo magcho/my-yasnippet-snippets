@@ -2,5 +2,5 @@
 # name: col
 # key: col
 # --
-<col>${0}</col>
+<col>$0</col>
    

@@ -2,5 +2,5 @@
 # name: figure
 # key: figure
 # --
-<figure>${0}</figure>
+<figure>$0</figure>
    

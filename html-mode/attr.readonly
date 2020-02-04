@@ -2,4 +2,4 @@
 # name: readonly
 # key: readonly
 # --
-readonly="${0}"
+readonly="$0"

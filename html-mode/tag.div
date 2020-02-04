@@ -2,5 +2,5 @@
 # name: div
 # key: div
 # --
-<div>${0}</div>
+<div>$0</div>
    

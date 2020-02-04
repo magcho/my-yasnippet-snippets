@@ -2,4 +2,4 @@
 # name: usemap
 # key: usemap
 # --
-usemap="${0}"
+usemap="$0"

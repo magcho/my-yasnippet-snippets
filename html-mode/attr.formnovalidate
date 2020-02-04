@@ -2,4 +2,4 @@
 # name: formnovalidate
 # key: formnovalidate
 # --
-formnovalidate="${0}"
+formnovalidate="$0"

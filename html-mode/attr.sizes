@@ -2,4 +2,4 @@
 # name: sizes
 # key: sizes
 # --
-sizes="${0}"
+sizes="$0"

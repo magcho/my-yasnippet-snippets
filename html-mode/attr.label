@@ -2,4 +2,4 @@
 # name: label
 # key: label
 # --
-label="${0}"
+label="$0"

@@ -2,4 +2,4 @@
 # name: formmethod
 # key: formmethod
 # --
-formmethod="${0}"
+formmethod="$0"

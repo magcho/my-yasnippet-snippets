@@ -2,5 +2,5 @@
 # name: tt
 # key: tt
 # --
-<tt>${0}</tt>
+<tt>$0</tt>
    

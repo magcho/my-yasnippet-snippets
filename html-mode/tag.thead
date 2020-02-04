@@ -2,5 +2,5 @@
 # name: thead
 # key: thead
 # --
-<thead>${0}</thead>
+<thead>$0</thead>
    

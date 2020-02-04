@@ -2,4 +2,4 @@
 # name: spellcheck
 # key: spellcheck
 # --
-spellcheck="${0}"
+spellcheck="$0"

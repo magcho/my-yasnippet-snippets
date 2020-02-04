@@ -2,4 +2,4 @@
 # name: low
 # key: low
 # --
-low="${0}"
+low="$0"

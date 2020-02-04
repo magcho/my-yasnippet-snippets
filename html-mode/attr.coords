@@ -2,4 +2,4 @@
 # name: coords
 # key: coords
 # --
-coords="${0}"
+coords="$0"

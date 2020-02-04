@@ -2,4 +2,4 @@
 # name: dir
 # key: dir
 # --
-dir="${0}"
+dir="$0"

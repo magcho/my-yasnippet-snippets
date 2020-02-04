@@ -2,5 +2,5 @@
 # name: base
 # key: base
 # --
-<base>${0}</base>
+<base>$0</base>
    

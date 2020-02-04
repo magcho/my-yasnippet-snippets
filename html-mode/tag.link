@@ -2,5 +2,5 @@
 # name: link
 # key: link
 # --
-<link>${0}</link>
+<link>$0</link>
    

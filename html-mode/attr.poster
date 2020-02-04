@@ -2,4 +2,4 @@
 # name: poster
 # key: poster
 # --
-poster="${0}"
+poster="$0"

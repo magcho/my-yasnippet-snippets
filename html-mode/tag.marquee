@@ -2,5 +2,5 @@
 # name: marquee
 # key: marquee
 # --
-<marquee>${0}</marquee>
+<marquee>$0</marquee>
    

@@ -2,4 +2,4 @@
 # name: defer
 # key: defer
 # --
-defer="${0}"
+defer="$0"

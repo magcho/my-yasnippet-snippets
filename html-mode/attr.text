@@ -2,4 +2,4 @@
 # name: Text
 # key: Text
 # --
-Text="${0}"
+Text="$0"

@@ -2,4 +2,4 @@
 # name: muted
 # key: muted
 # --
-muted="${0}"
+muted="$0"

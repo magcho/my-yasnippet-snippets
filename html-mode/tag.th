@@ -2,5 +2,5 @@
 # name: th
 # key: th
 # --
-<th>${0}</th>
+<th>$0</th>
    

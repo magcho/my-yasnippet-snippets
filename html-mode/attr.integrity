@@ -2,4 +2,4 @@
 # name: integrity
 # key: integrity
 # --
-integrity="${0}"
+integrity="$0"

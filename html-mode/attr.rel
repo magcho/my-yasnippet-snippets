@@ -2,4 +2,4 @@
 # name: rel
 # key: rel
 # --
-rel="${0}"
+rel="$0"

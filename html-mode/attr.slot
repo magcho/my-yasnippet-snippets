@@ -2,4 +2,4 @@
 # name: slot
 # key: slot
 # --
-slot="${0}"
+slot="$0"

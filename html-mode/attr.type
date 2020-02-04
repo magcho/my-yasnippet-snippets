@@ -2,4 +2,4 @@
 # name: type
 # key: type
 # --
-type="${0}"
+type="$0"

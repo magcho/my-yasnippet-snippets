@@ -2,4 +2,4 @@
 # name: intrinsicsize
 # key: intrinsicsize
 # --
-intrinsicsize="${0}"
+intrinsicsize="$0"

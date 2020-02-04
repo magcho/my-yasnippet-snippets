@@ -2,4 +2,4 @@
 # name: inputmode
 # key: inputmode
 # --
-inputmode="${0}"
+inputmode="$0"

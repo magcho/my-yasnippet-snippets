@@ -2,4 +2,4 @@
 # name: buffered
 # key: buffered
 # --
-buffered="${0}"
+buffered="$0"

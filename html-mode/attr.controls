@@ -2,4 +2,4 @@
 # name: controls
 # key: controls
 # --
-controls="${0}"
+controls="$0"

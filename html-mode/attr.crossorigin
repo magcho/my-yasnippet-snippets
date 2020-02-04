@@ -2,4 +2,4 @@
 # name: crossorigin
 # key: crossorigin
 # --
-crossorigin="${0}"
+crossorigin="$0"

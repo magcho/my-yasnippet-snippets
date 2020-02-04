@@ -2,4 +2,4 @@
 # name: background-image
 # key: background-image
 # --
-background-image="${0}"
+background-image="$0"

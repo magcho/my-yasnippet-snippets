@@ -2,4 +2,4 @@
 # name: method
 # key: method
 # --
-method="${0}"
+method="$0"

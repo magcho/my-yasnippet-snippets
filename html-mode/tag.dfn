@@ -2,5 +2,5 @@
 # name: dfn
 # key: dfn
 # --
-<dfn>${0}</dfn>
+<dfn>$0</dfn>
    

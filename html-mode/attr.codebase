@@ -2,4 +2,4 @@
 # name: codebase
 # key: codebase
 # --
-codebase="${0}"
+codebase="$0"

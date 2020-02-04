@@ -2,5 +2,5 @@
 # name: optgroup
 # key: optgroup
 # --
-<optgroup>${0}</optgroup>
+<optgroup>$0</optgroup>
    

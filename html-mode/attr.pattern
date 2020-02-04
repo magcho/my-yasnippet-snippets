@@ -2,4 +2,4 @@
 # name: pattern
 # key: pattern
 # --
-pattern="${0}"
+pattern="$0"

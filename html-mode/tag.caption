@@ -2,5 +2,5 @@
 # name: caption
 # key: caption
 # --
-<caption>${0}</caption>
+<caption>$0</caption>
    

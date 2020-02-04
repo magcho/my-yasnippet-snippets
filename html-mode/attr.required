@@ -2,4 +2,4 @@
 # name: required
 # key: required
 # --
-required="${0}"
+required="$0"

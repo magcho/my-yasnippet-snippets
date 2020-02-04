@@ -2,5 +2,5 @@
 # name: object
 # key: object
 # --
-<object>${0}</object>
+<object>$0</object>
    

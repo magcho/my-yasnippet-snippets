@@ -2,4 +2,4 @@
 # name: headers
 # key: headers
 # --
-headers="${0}"
+headers="$0"

@@ -2,4 +2,4 @@
 # name: hreflang
 # key: hreflang
 # --
-hreflang="${0}"
+hreflang="$0"

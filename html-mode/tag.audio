@@ -2,5 +2,5 @@
 # name: audio
 # key: audio
 # --
-<audio>${0}</audio>
+<audio>$0</audio>
    

@@ -2,4 +2,4 @@
 # name: referrerpolicy
 # key: referrerpolicy
 # --
-referrerpolicy="${0}"
+referrerpolicy="$0"

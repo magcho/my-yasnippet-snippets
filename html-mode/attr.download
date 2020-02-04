@@ -2,4 +2,4 @@
 # name: download
 # key: download
 # --
-download="${0}"
+download="$0"

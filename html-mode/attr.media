@@ -2,4 +2,4 @@
 # name: media
 # key: media
 # --
-media="${0}"
+media="$0"

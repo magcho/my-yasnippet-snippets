@@ -2,5 +2,5 @@
 # name: ruby
 # key: ruby
 # --
-<ruby>${0}</ruby>
+<ruby>$0</ruby>
    

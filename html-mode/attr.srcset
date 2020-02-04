@@ -2,4 +2,4 @@
 # name: srcset
 # key: srcset
 # --
-srcset="${0}"
+srcset="$0"

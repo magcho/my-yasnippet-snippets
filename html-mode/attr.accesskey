@@ -2,4 +2,4 @@
 # name: accesskey
 # key: accesskey
 # --
-accesskey="${0}"
+accesskey="$0"

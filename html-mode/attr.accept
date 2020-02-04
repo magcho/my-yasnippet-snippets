@@ -2,4 +2,4 @@
 # name: accept
 # key: accept
 # --
-accept="${0}"
+accept="$0"

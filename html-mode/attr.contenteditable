@@ -2,4 +2,4 @@
 # name: contenteditable
 # key: contenteditable
 # --
-contenteditable="${0}"
+contenteditable="$0"

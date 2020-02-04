@@ -2,4 +2,4 @@
 # name: step
 # key: step
 # --
-step="${0}"
+step="$0"

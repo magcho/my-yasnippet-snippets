@@ -2,4 +2,4 @@
 # name: checked
 # key: checked
 # --
-checked="${0}"
+checked="$0"

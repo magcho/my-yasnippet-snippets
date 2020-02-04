@@ -2,5 +2,5 @@
 # name: menuitem
 # key: menuitem
 # --
-<menuitem>${0}</menuitem>
+<menuitem>$0</menuitem>
    

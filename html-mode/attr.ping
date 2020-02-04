@@ -2,4 +2,4 @@
 # name: ping
 # key: ping
 # --
-ping="${0}"
+ping="$0"

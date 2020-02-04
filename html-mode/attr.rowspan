@@ -2,4 +2,4 @@
 # name: rowspan
 # key: rowspan
 # --
-rowspan="${0}"
+rowspan="$0"

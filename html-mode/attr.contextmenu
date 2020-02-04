@@ -2,4 +2,4 @@
 # name: contextmenu
 # key: contextmenu
 # --
-contextmenu="${0}"
+contextmenu="$0"

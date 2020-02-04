@@ -2,4 +2,4 @@
 # name: file
 # key: file
 # --
-file="${0}"
+file="$0"

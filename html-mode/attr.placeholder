@@ -2,4 +2,4 @@
 # name: placeholder
 # key: placeholder
 # --
-placeholder="${0}"
+placeholder="$0"

@@ -2,4 +2,4 @@
 # name: srcdoc
 # key: srcdoc
 # --
-srcdoc="${0}"
+srcdoc="$0"

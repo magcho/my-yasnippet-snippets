@@ -2,5 +2,5 @@
 # name: aside
 # key: aside
 # --
-<aside>${0}</aside>
+<aside>$0</aside>
    
