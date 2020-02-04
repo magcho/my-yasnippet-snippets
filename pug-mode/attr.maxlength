@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: maxlength
+# key: maxlength
+# --
+maxlength="$0"

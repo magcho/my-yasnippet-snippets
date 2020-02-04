@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: sizes
+# key: sizes
+# --
+sizes="$0"

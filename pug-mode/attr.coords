@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: coords
+# key: coords
+# --
+coords="$0"

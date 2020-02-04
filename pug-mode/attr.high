@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: high
+# key: high
+# --
+high="$0"

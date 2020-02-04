@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: enterkeyhint
+# key: enterkeyhint
+# --
+enterkeyhint="$0"

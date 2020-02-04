@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: usemap
+# key: usemap
+# --
+usemap="$0"

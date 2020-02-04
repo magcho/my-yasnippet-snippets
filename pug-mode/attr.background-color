@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: background-color
+# key: background-color
+# --
+background-color="$0"

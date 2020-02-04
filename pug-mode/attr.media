@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: media
+# key: media
+# --
+media="$0"

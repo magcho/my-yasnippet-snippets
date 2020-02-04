@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: poster
+# key: poster
+# --
+poster="$0"

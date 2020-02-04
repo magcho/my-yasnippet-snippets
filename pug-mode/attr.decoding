@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: decoding
+# key: decoding
+# --
+decoding="$0"

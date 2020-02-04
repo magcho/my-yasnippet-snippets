@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: POST
+# key: POST
+# --
+POST="$0"
