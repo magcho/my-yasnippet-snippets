@@ -2,5 +2,5 @@
 # name: data
 # key: data
 # --
-<data>${0}</data>
+<data>$0</data>
    

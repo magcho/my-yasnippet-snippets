@@ -2,4 +2,4 @@
 # name: manifest
 # key: manifest
 # --
-manifest="${0}"
+manifest="$0"

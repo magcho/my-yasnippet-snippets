@@ -2,4 +2,4 @@
 # name: tabindex
 # key: tabindex
 # --
-tabindex="${0}"
+tabindex="$0"

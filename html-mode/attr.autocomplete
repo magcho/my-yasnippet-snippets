@@ -2,4 +2,4 @@
 # name: autocomplete
 # key: autocomplete
 # --
-autocomplete="${0}"
+autocomplete="$0"

@@ -2,5 +2,5 @@
 # name: slot
 # key: slot
 # --
-<slot>${0}</slot>
+<slot>$0</slot>
    

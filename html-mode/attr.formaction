@@ -2,4 +2,4 @@
 # name: formaction
 # key: formaction
 # --
-formaction="${0}"
+formaction="$0"

@@ -2,4 +2,4 @@
 # name: autofocus
 # key: autofocus
 # --
-autofocus="${0}"
+autofocus="$0"

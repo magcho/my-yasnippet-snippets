@@ -2,4 +2,4 @@
 # name: dropzone
 # key: dropzone
 # --
-dropzone="${0}"
+dropzone="$0"

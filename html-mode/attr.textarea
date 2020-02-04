@@ -2,4 +2,4 @@
 # name: textarea
 # key: textarea
 # --
-textarea="${0}"
+textarea="$0"

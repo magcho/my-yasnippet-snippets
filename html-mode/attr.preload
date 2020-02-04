@@ -2,4 +2,4 @@
 # name: preload
 # key: preload
 # --
-preload="${0}"
+preload="$0"

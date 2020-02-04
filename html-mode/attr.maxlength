@@ -2,4 +2,4 @@
 # name: maxlength
 # key: maxlength
 # --
-maxlength="${0}"
+maxlength="$0"

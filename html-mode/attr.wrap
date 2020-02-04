@@ -2,4 +2,4 @@
 # name: wrap
 # key: wrap
 # --
-wrap="${0}"
+wrap="$0"

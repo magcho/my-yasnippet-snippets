@@ -2,4 +2,4 @@
 # name: srclang
 # key: srclang
 # --
-srclang="${0}"
+srclang="$0"

@@ -2,5 +2,5 @@
 # name: figcaption
 # key: figcaption
 # --
-<figcaption>${0}</figcaption>
+<figcaption>$0</figcaption>
    

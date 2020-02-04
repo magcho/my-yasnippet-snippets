@@ -2,4 +2,4 @@
 # name: formenctype
 # key: formenctype
 # --
-formenctype="${0}"
+formenctype="$0"

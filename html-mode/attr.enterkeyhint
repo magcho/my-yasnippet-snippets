@@ -2,4 +2,4 @@
 # name: enterkeyhint
 # key: enterkeyhint
 # --
-enterkeyhint="${0}"
+enterkeyhint="$0"

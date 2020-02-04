@@ -2,5 +2,5 @@
 # name: noframes
 # key: noframes
 # --
-<noframes>${0}</noframes>
+<noframes>$0</noframes>
    

@@ -2,5 +2,5 @@
 # name: multicol
 # key: multicol
 # --
-<multicol>${0}</multicol>
+<multicol>$0</multicol>
    

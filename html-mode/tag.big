@@ -2,5 +2,5 @@
 # name: big
 # key: big
 # --
-<big>${0}</big>
+<big>$0</big>
    

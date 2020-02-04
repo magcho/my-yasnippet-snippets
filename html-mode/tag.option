@@ -2,5 +2,5 @@
 # name: option
 # key: option
 # --
-<option>${0}</option>
+<option>$0</option>
    

@@ -2,5 +2,5 @@
 # name: nextid
 # key: nextid
 # --
-<nextid>${0}</nextid>
+<nextid>$0</nextid>
    

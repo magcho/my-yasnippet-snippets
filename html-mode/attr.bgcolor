@@ -2,4 +2,4 @@
 # name: bgcolor
 # key: bgcolor
 # --
-bgcolor="${0}"
+bgcolor="$0"

@@ -2,4 +2,4 @@
 # name: async
 # key: async
 # --
-async="${0}"
+async="$0"

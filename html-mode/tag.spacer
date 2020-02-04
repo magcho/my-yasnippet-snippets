@@ -2,5 +2,5 @@
 # name: spacer
 # key: spacer
 # --
-<spacer>${0}</spacer>
+<spacer>$0</spacer>
    

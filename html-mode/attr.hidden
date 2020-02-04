@@ -2,4 +2,4 @@
 # name: hidden
 # key: hidden
 # --
-hidden="${0}"
+hidden="$0"

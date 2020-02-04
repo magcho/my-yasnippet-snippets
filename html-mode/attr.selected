@@ -2,4 +2,4 @@
 # name: selected
 # key: selected
 # --
-selected="${0}"
+selected="$0"

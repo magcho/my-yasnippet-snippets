@@ -2,4 +2,4 @@
 # name: high
 # key: high
 # --
-high="${0}"
+high="$0"

@@ -2,4 +2,4 @@
 # name: autocapitalize
 # key: autocapitalize
 # --
-autocapitalize="${0}"
+autocapitalize="$0"

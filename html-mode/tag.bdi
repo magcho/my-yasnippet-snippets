@@ -2,5 +2,5 @@
 # name: bdi
 # key: bdi
 # --
-<bdi>${0}</bdi>
+<bdi>$0</bdi>
    

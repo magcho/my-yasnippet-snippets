@@ -2,5 +2,5 @@
 # name: nav
 # key: nav
 # --
-<nav>${0}</nav>
+<nav>$0</nav>
    

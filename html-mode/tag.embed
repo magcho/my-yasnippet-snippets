@@ -2,5 +2,5 @@
 # name: embed
 # key: embed
 # --
-<embed>${0}</embed>
+<embed>$0</embed>
    

@@ -2,5 +2,5 @@
 # name: ul
 # key: ul
 # --
-<ul>${0}</ul>
+<ul>$0</ul>
    

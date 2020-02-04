@@ -2,5 +2,5 @@
 # name: button
 # key: button
 # --
-<button>${0}</button>
+<button>$0</button>
    

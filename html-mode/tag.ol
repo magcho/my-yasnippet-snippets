@@ -2,5 +2,5 @@
 # name: ol
 # key: ol
 # --
-<ol>${0}</ol>
+<ol>$0</ol>
    

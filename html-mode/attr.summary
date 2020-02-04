@@ -2,4 +2,4 @@
 # name: summary
 # key: summary
 # --
-summary="${0}"
+summary="$0"

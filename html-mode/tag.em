@@ -2,5 +2,5 @@
 # name: em
 # key: em
 # --
-<em>${0}</em>
+<em>$0</em>
    

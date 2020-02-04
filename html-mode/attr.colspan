@@ -2,4 +2,4 @@
 # name: colspan
 # key: colspan
 # --
-colspan="${0}"
+colspan="$0"

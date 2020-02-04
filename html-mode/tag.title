@@ -2,5 +2,5 @@
 # name: title
 # key: title
 # --
-<title>${0}</title>
+<title>$0</title>
    

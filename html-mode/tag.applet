@@ -2,5 +2,5 @@
 # name: applet
 # key: applet
 # --
-<applet>${0}</applet>
+<applet>$0</applet>
    

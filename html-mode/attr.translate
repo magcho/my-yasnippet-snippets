@@ -2,4 +2,4 @@
 # name: translate
 # key: translate
 # --
-translate="${0}"
+translate="$0"

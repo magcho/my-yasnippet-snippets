@@ -2,4 +2,4 @@
 # name: sandbox
 # key: sandbox
 # --
-sandbox="${0}"
+sandbox="$0"

@@ -2,5 +2,5 @@
 # name: blink
 # key: blink
 # --
-<blink>${0}</blink>
+<blink>$0</blink>
    

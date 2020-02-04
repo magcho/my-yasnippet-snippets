@@ -2,4 +2,4 @@
 # name: max
 # key: max
 # --
-max="${0}"
+max="$0"

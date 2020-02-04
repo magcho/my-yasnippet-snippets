@@ -2,5 +2,5 @@
 # name: hr
 # key: hr
 # --
-<hr>${0}</hr>
+<hr>$0</hr>
    

@@ -2,5 +2,5 @@
 # name: form
 # key: form
 # --
-<form>${0}</form>
+<form>$0</form>
    

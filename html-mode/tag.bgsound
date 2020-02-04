@@ -2,5 +2,5 @@
 # name: bgsound
 # key: bgsound
 # --
-<bgsound>${0}</bgsound>
+<bgsound>$0</bgsound>
    

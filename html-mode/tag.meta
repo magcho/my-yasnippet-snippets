@@ -2,5 +2,5 @@
 # name: meta
 # key: meta
 # --
-<meta>${0}</meta>
+<meta>$0</meta>
    

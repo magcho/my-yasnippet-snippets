@@ -2,4 +2,4 @@
 # name: draggable
 # key: draggable
 # --
-draggable="${0}"
+draggable="$0"

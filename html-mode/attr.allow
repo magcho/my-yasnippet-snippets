@@ -2,4 +2,4 @@
 # name: allow
 # key: allow
 # --
-allow="${0}"
+allow="$0"

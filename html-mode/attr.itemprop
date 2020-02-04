@@ -2,4 +2,4 @@
 # name: itemprop
 # key: itemprop
 # --
-itemprop="${0}"
+itemprop="$0"

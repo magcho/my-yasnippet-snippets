@@ -75,7 +75,7 @@ def createTagNameSnippet(tagName):
 # name: {0}
 # key: {0}
 # --
-<{0}>${{0}}</{0}>
+<{0}>$0</{0}>
     """[
         1:-1
     ].format(
@@ -97,7 +97,7 @@ def createAttrSnippet(attr):
 # name: {0}
 # key: {0}
 # --
-{0}=\"${{0}}\"
+{0}=\"$0\"
 """[
         1:-1
     ].format(

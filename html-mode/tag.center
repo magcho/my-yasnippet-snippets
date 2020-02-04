@@ -2,5 +2,5 @@
 # name: center
 # key: center
 # --
-<center>${0}</center>
+<center>$0</center>
    

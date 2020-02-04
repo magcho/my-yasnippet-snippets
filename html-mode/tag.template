@@ -2,5 +2,5 @@
 # name: template
 # key: template
 # --
-<template>${0}</template>
+<template>$0</template>
    

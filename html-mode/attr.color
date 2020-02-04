@@ -2,4 +2,4 @@
 # name: color
 # key: color
 # --
-color="${0}"
+color="$0"

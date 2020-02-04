@@ -2,4 +2,4 @@
 # name: alt
 # key: alt
 # --
-alt="${0}"
+alt="$0"

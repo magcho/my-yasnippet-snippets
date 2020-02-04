@@ -2,4 +2,4 @@
 # name: start
 # key: start
 # --
-start="${0}"
+start="$0"

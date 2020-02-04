@@ -2,5 +2,5 @@
 # name: noembed
 # key: noembed
 # --
-<noembed>${0}</noembed>
+<noembed>$0</noembed>
    
