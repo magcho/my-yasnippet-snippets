@@ -2,5 +2,5 @@
 # name: picture
 # key: picture
 # --
-<picture>${0}</picture>
+<picture>$0</picture>
    

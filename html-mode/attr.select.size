@@ -2,4 +2,4 @@
 # name: select.size
 # key: select.size
 # --
-select.size="${0}"
+select.size="$0"

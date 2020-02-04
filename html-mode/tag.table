@@ -2,5 +2,5 @@
 # name: table
 # key: table
 # --
-<table>${0}</table>
+<table>$0</table>
    

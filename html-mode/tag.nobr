@@ -2,5 +2,5 @@
 # name: nobr
 # key: nobr
 # --
-<nobr>${0}</nobr>
+<nobr>$0</nobr>
    

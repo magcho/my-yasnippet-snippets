@@ -2,5 +2,5 @@
 # name: time
 # key: time
 # --
-<time>${0}</time>
+<time>$0</time>
    

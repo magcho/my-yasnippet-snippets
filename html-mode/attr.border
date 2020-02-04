@@ -2,4 +2,4 @@
 # name: border
 # key: border
 # --
-border="${0}"
+border="$0"

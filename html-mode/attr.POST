@@ -2,4 +2,4 @@
 # name: POST
 # key: POST
 # --
-POST="${0}"
+POST="$0"

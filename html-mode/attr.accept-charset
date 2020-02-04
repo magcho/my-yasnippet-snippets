@@ -2,4 +2,4 @@
 # name: accept-charset
 # key: accept-charset
 # --
-accept-charset="${0}"
+accept-charset="$0"

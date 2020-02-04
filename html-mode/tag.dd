@@ -2,5 +2,5 @@
 # name: dd
 # key: dd
 # --
-<dd>${0}</dd>
+<dd>$0</dd>
    

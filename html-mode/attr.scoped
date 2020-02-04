@@ -2,4 +2,4 @@
 # name: scoped
 # key: scoped
 # --
-scoped="${0}"
+scoped="$0"

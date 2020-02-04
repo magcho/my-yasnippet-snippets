@@ -2,4 +2,4 @@
 # name: GET
 # key: GET
 # --
-GET="${0}"
+GET="$0"

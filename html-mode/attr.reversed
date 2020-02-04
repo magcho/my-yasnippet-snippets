@@ -2,4 +2,4 @@
 # name: reversed
 # key: reversed
 # --
-reversed="${0}"
+reversed="$0"

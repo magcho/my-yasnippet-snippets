@@ -2,4 +2,4 @@
 # name: csp
 # key: csp
 # --
-csp="${0}"
+csp="$0"

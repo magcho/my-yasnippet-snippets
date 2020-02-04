@@ -2,4 +2,4 @@
 # name: lang
 # key: lang
 # --
-lang="${0}"
+lang="$0"

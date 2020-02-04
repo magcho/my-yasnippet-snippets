@@ -2,4 +2,4 @@
 # name: http-equiv
 # key: http-equiv
 # --
-http-equiv="${0}"
+http-equiv="$0"

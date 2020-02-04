@@ -2,5 +2,5 @@
 # name: param
 # key: param
 # --
-<param>${0}</param>
+<param>$0</param>
    

@@ -2,4 +2,4 @@
 # name: action
 # key: action
 # --
-action="${0}"
+action="$0"

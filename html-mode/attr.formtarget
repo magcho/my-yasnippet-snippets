@@ -2,4 +2,4 @@
 # name: formtarget
 # key: formtarget
 # --
-formtarget="${0}"
+formtarget="$0"

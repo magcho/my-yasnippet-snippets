@@ -2,5 +2,5 @@
 # name: bdo
 # key: bdo
 # --
-<bdo>${0}</bdo>
+<bdo>$0</bdo>
    

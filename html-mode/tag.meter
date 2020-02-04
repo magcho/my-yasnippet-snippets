@@ -2,5 +2,5 @@
 # name: meter
 # key: meter
 # --
-<meter>${0}</meter>
+<meter>$0</meter>
    

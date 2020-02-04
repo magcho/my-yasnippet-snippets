@@ -2,5 +2,5 @@
 # name: strike
 # key: strike
 # --
-<strike>${0}</strike>
+<strike>$0</strike>
    

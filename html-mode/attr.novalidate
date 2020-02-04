@@ -2,4 +2,4 @@
 # name: novalidate
 # key: novalidate
 # --
-novalidate="${0}"
+novalidate="$0"

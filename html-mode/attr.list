@@ -2,4 +2,4 @@
 # name: list
 # key: list
 # --
-list="${0}"
+list="$0"

@@ -2,5 +2,5 @@
 # name: font
 # key: font
 # --
-<font>${0}</font>
+<font>$0</font>
    

@@ -2,5 +2,5 @@
 # name: select
 # key: select
 # --
-<select>${0}</select>
+<select>$0</select>
    

@@ -2,5 +2,5 @@
 # name: frameset
 # key: frameset
 # --
-<frameset>${0}</frameset>
+<frameset>$0</frameset>
    

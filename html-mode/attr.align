@@ -2,4 +2,4 @@
 # name: align
 # key: align
 # --
-align="${0}"
+align="$0"

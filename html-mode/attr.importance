@@ -2,4 +2,4 @@
 # name: importance
 # key: importance
 # --
-importance="${0}"
+importance="$0"

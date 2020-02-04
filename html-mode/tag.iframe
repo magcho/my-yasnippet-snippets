@@ -2,5 +2,5 @@
 # name: iframe
 # key: iframe
 # --
-<iframe>${0}</iframe>
+<iframe>$0</iframe>
    

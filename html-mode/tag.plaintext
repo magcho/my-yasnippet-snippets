@@ -2,5 +2,5 @@
 # name: plaintext
 # key: plaintext
 # --
-<plaintext>${0}</plaintext>
+<plaintext>$0</plaintext>
    

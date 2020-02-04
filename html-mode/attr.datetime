@@ -2,4 +2,4 @@
 # name: datetime
 # key: datetime
 # --
-datetime="${0}"
+datetime="$0"

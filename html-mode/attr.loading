@@ -2,4 +2,4 @@
 # name: loading
 # key: loading
 # --
-loading="${0}"
+loading="$0"

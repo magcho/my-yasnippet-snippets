@@ -2,4 +2,4 @@
 # name: optimum
 # key: optimum
 # --
-optimum="${0}"
+optimum="$0"

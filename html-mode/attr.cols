@@ -2,4 +2,4 @@
 # name: cols
 # key: cols
 # --
-cols="${0}"
+cols="$0"

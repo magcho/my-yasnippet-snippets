@@ -2,4 +2,4 @@
 # name: enctype
 # key: enctype
 # --
-enctype="${0}"
+enctype="$0"

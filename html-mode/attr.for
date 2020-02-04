@@ -2,4 +2,4 @@
 # name: for
 # key: for
 # --
-for="${0}"
+for="$0"

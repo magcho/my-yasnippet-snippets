@@ -2,4 +2,4 @@
 # name: charset
 # key: charset
 # --
-charset="${0}"
+charset="$0"

@@ -2,5 +2,5 @@
 # name: legend
 # key: legend
 # --
-<legend>${0}</legend>
+<legend>$0</legend>
    

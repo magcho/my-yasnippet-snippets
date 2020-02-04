@@ -2,4 +2,4 @@
 # name: keytype
 # key: keytype
 # --
-keytype="${0}"
+keytype="$0"

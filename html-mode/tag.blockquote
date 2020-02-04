@@ -2,5 +2,5 @@
 # name: blockquote
 # key: blockquote
 # --
-<blockquote>${0}</blockquote>
+<blockquote>$0</blockquote>
    

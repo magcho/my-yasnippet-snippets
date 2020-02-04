@@ -2,5 +2,5 @@
 # name: listing
 # key: listing
 # --
-<listing>${0}</listing>
+<listing>$0</listing>
    

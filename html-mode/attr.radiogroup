@@ -2,4 +2,4 @@
 # name: radiogroup
 # key: radiogroup
 # --
-radiogroup="${0}"
+radiogroup="$0"

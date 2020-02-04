@@ -2,4 +2,4 @@
 # name: autoplay
 # key: autoplay
 # --
-autoplay="${0}"
+autoplay="$0"

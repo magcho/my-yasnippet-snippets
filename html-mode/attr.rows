@@ -2,4 +2,4 @@
 # name: rows
 # key: rows
 # --
-rows="${0}"
+rows="$0"

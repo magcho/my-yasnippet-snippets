@@ -2,4 +2,4 @@
 # name: kind
 # key: kind
 # --
-kind="${0}"
+kind="$0"

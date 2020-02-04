@@ -2,4 +2,4 @@
 # name: ismap
 # key: ismap
 # --
-ismap="${0}"
+ismap="$0"

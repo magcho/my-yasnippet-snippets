@@ -2,4 +2,4 @@
 # name: decoding
 # key: decoding
 # --
-decoding="${0}"
+decoding="$0"

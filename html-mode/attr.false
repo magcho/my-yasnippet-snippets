@@ -2,4 +2,4 @@
 # name: false
 # key: false
 # --
-false="${0}"
+false="$0"

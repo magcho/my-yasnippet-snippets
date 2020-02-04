@@ -2,4 +2,4 @@
 # name: span
 # key: span
 # --
-span="${0}"
+span="$0"

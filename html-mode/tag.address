@@ -2,5 +2,5 @@
 # name: address
 # key: address
 # --
-<address>${0}</address>
+<address>$0</address>
    
