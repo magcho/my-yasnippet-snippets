@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: table
+# key: table
+# --
+|  $0  |    |
+| ---- | ---- |
+|    |    |
