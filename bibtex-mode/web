@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: web
+# key: web
+# --
+@misc{$1,
+  author={$2},
+  title={$3},
+  note={\url{${4:http://}}},
+  year={${5:最終閲覧日}}
+}
+$0

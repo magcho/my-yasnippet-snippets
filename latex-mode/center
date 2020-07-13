@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: multicolumn
+# key: center
+# --
+\multicolumn{1}{c}{$1}$0

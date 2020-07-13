@@ -1,0 +1,23 @@
+# -*- mode: snippet -*-
+# name: init-math
+# key: init
+# --
+\documentclass[dvipdfmx]{jsreport}
+
+ %数式環境
+\usepackage{amsmath,amssymb}
+\usepackage{mathtools}
+\mathtoolsset{showonlyrefs=true} % 数式番号表示をデフォルトでオフに
+\numberwithin{equation}{section} % 数式番号の採番をセクション番号に従わせる
+\newcommand{\bvec}[1]{\mbox{\boldmath $#1$}} % veotor関数
+
+\begin{document}
+\title{$1}
+\author{18aj071 Suetake Dai}
+
+\maketitle
+
+$0
+
+
+\end{document}

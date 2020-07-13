@@ -1,0 +1,29 @@
+# -*- mode: snippet -*-
+# name: init-code
+# key: init
+# --
+\documentclass[dvipdfmx]{jsarticle}
+\usepackage{minted} % code syntax hilight
+\usepackage{xcolor} % code background color setting
+\usepackage{here} % code block positionning
+
+\usepackage[dvipdfmx]{graphicx} % include image
+
+%% 数式用
+\usepackage{amsmath,amssymb}
+\usepackage{mathtools}
+\mathtoolsset{showonlyrefs=true}
+\usepackage{siunitx} % SI単位
+
+
+\begin{document}
+\title{$1}
+\date{$2}
+\author{18aj071 末竹　大}
+
+\maketitle
+
+$0
+
+
+\end{document}

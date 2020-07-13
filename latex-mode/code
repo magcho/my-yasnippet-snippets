@@ -1,0 +1,19 @@
+# -*- mode: snippet -*-
+# name: code syntex highlight
+# key: code
+# --
+\begin{figure}[H]
+  \centering
+  \begin{minted}
+    [
+      frame=single,
+      fontsize=\footnotesize,
+      framesep=2mm,
+      baselinestretch=1.2,
+      linenos,
+      highlightlines={}
+    ]{$1}
+    $0
+  \end{minted}
+  \caption{\label{code:$2}  $2}
+\end{figure}

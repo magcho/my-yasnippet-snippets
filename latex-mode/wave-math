@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: ﾅﾐｶｯｺ
+# key: nami
+# --
+\begin{equation}
+  \left\{
+    \begin{aligned}
+      ${0:a &= b\\
+      c &= d}
+    \end{aligned}
+  \right.
+\end{equation}
